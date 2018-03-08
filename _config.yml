@@ -62,15 +62,15 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: https://github.com/iTimeTraveler
-  Weibo: http://www.yoursite.com
-  Twitter: 
-  Facebook: 
-  Google-plus: 
-  Instagram: 
-  Pinterest: 
-  Flickr: 
-  email:
+  email: pk920207@gmail.com
+  Github: https://github.com/joont92
+  #Facebook: 
+  #Weibo: 
+  #Twitter: 
+  #Google-plus: 
+  #Instagram: 
+  #Pinterest: 
+  #Flickr: 
 
 
 # Search
@@ -83,8 +83,8 @@ search:
 # comment ShortName, you can choose only ONE to display.
 gentie_productKey: #your-gentie-product-key
 duoshuo_shortname:
-disqus_shortname: 
-livere_shortname: MTAyMC8yOTQ4MS82MDQ5
+disqus_shortname: joont92
+livere_shortname: 
 uyan_uid: 
 wumii:
 gitment:
@@ -97,7 +97,7 @@ gitment:
 # Available value:
 #    default | normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: default
+highlight_theme: night bright
 
 
 
@@ -119,11 +119,11 @@ baidu_site_verification:
 qihu_site_verification:
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-110551662-1
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
-busuanzi_analytics: true
+busuanzi_analytics: 
 twitter:
 google_plus:
 fb_admins:
@@ -155,4 +155,4 @@ progressBar:
 
 # Ad
 ad:
-  google_adsense_ad_client_id: ca-pub-0123456789ABCDEF
+  google_adsense_ad_client_id: 
